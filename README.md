@@ -1,5 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?henriqerocha=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2 align="left">Hi 👋! My name is Pedro Henrique... and i'm a web developer, from Brazil.</h2>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?henriqerocha=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
